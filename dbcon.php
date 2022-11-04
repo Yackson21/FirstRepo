@@ -1,7 +1,7 @@
 <?php
 	
-	echo "Hell, World!"
-
+	echo "Hell, World!";
+	$name= $_POST['name'];
 
 
 ?>
